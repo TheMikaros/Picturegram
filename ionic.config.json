@@ -1,0 +1,7 @@
+{
+  "name": "Picturegram",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
